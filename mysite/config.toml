@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Personal Interest Site"
+theme = "ananke"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "page1"
+    name = "Page 1"
+    url = "/posts/page1/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "page2"
+    name = "Page 2"
+    url = "/posts/page2/"
+    weight = 3

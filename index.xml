@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2024 10:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page 2</title>
+      <link>http://example.org/posts/page2/</link>
+      <pubDate>Fri, 26 Jul 2024 10:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/page2/</guid>
+      <description>Welcome to Page 2 This is the content for Page 2. You can add information about your favorite books, movies, or any other topics of interest.</description>
+    </item>
+    
+    <item>
+      <title>Page 3</title>
+      <link>http://example.org/posts/page3/</link>
+      <pubDate>Fri, 26 Jul 2024 10:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/page3/</guid>
+      <description>Welcome to Page 3 This is the content for Page 3. Here, you can discuss your travel experiences, share photos, or provide travel tips.</description>
+    </item>
+    
+    <item>
+      <title>Page 4</title>
+      <link>http://example.org/posts/page4/</link>
+      <pubDate>Fri, 26 Jul 2024 10:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/page4/</guid>
+      <description>Welcome to Page 4 This is the content for Page 4. You can write about your favorite recipes, cooking tips, or culinary adventures.</description>
+    </item>
+    
+    <item>
+      <title>Page 5</title>
+      <link>http://example.org/posts/page5/</link>
+      <pubDate>Fri, 26 Jul 2024 10:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/page5/</guid>
+      <description>Welcome to Page 5 This is the content for Page 5. Here, you can share your thoughts on technology, programming, or any projects you&amp;rsquo;re working on.</description>
+    </item>
+    
+  </channel>
+</rss>
